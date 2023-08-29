@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(80, 80, 255, 0.829);
+    font: normal 15pt Arial;
+
+}
+
+header {
+    color: white;
+    text-align: center;
+} 
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.425);
+    gap: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+
+}
+
+footer {
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+footer > a {
+    color: white;
+}
+
+a:hover {
+    text-decoration: dashed;
+}
+
